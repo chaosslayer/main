@@ -1,1 +1,18 @@
 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <picture>
+            <source media="(max-width: )" srcset="cocainapequena.png">
+            <img src="https://static6.depositphotos.com/1057102/566/i/600/depositphotos_5663387-stock-photo-cocaine-and-money.jpg" alt="">
+        </picture>
+    </div>
+</body>
+</html>
